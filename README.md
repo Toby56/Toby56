@@ -1,4 +1,4 @@
-# Heyy! I'm Toby56
+# Hey, I'm Toby56
 
 [**Email**/Toby56@pm.me](mailto:Toby56@pm.me)
 
@@ -8,9 +8,9 @@
 
 [**Reddit**/Toby560](https://www.reddit.com/user/Toby560)
 
-[**Steam**/Toby56](https://steamcommunity.com/id/Toby560/)
+[**Steam**/Toby560](https://steamcommunity.com/id/Toby560/)
 
-[**Discord**/Toby56#7881](https://discord.gg/yhespeDjVs)
+[**Discord**/Toby56](https://discord.gg/yhespeDjVs)
 
 [**Hackaday**/Toby56](https://hackaday.io/Toby56)
 
@@ -19,8 +19,6 @@
 [**Spotify**/Toby56](https://open.spotify.com/user/jxfyeiqho881nfzek50wohoxx?si=LTOKBK_yRAGgGW3A9JUYJA)
 
 [**Unsplash**/Toby56](https://unsplash.com/@toby56/)
-
-<sup><sup>*Someone once told me that good friends are like snowflakes. When you pee on them, they disapear.*</sup></sup>
 
 <!--
 **Toby56/Toby56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
